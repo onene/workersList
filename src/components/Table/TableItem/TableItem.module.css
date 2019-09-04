@@ -1,0 +1,52 @@
+.tbody button {
+    background-color: #fff;
+    font-size: 15px;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 7px;
+    outline: none;
+    background-color: #9387f8;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+
+.modal {
+    width: 50%;
+    background-color: rgb(174, 111, 247);
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    padding: 25px;
+    font-size: 25px;
+    outline: none;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+.modal h2 {
+    text-align: center;
+    font-size: 35px;
+}
+
+.modal button {
+    margin-top: 25px;
+    background-color: rgb(196, 45, 45);
+    border: none;
+    color: white;
+    font-size: 25px;
+    display: block;
+    width: 150px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
